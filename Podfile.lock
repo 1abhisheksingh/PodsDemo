@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.7.1)
+  - PLCrashReporter (1.11.1)
+  - SwiftLint (0.52.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - PLCrashReporter
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PLCrashReporter
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  PLCrashReporter: 5d2d3967afe0efad61b3048d617e2199a5d1b787
+  SwiftLint: 1ac76dac888ca05cb0cf24d0c85887ec1209961d
+
+PODFILE CHECKSUM: dccca55532dff8f09084396d060f3fa194e80ee7
+
+COCOAPODS: 1.12.1
